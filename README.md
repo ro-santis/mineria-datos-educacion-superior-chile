@@ -6,6 +6,7 @@ Este repositorio contiene un notebook de análisis y procesamiento de datos desa
 ## Contenido
  
 - `notebook.ipynb`: notebook principal con la carga, transformación, análisis y visualización de datos.
+- `Muestra datos`: Se encuentra un muestra de la base de datos usada.
  
 ## Requisitos
  
